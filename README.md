@@ -1,2 +1,3 @@
-# photo-editor
-Basic Photo Editor
+# PhOtO EdItOr
+
+
