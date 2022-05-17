@@ -1,3 +1,3 @@
-# PhOtO EdItOr
+# Photo Editor
 
 
