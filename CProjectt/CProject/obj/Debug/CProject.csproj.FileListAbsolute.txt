@@ -1,0 +1,46 @@
+c:\users\ah_su\onedrive\belgeler\visual studio 2015\Projects\CProject\CProject\bin\Debug\CProject.exe.config
+C:\Users\ah_su\OneDrive\Belgeler\Visual Studio 2015\Projects\CProject\CProject\bin\Debug\CProject.exe
+C:\Users\ah_su\OneDrive\Belgeler\Visual Studio 2015\Projects\CProject\CProject\bin\Debug\CProject.pdb
+C:\Users\ah_su\OneDrive\Belgeler\Visual Studio 2015\Projects\CProject\CProject\obj\Debug\CProject.csprojResolveAssemblyReference.cache
+C:\Users\ah_su\OneDrive\Belgeler\Visual Studio 2015\Projects\CProject\CProject\obj\Debug\CProject.Form1.resources
+C:\Users\ah_su\OneDrive\Belgeler\Visual Studio 2015\Projects\CProject\CProject\obj\Debug\CProject.Properties.Resources.resources
+C:\Users\ah_su\OneDrive\Belgeler\Visual Studio 2015\Projects\CProject\CProject\obj\Debug\CProject.csproj.GenerateResource.Cache
+C:\Users\ah_su\OneDrive\Belgeler\Visual Studio 2015\Projects\CProject\CProject\obj\Debug\CProject.exe
+C:\Users\ah_su\OneDrive\Belgeler\Visual Studio 2015\Projects\CProject\CProject\obj\Debug\CProject.pdb
+C:\Users\ah_su\Desktop\CProject\CProject\bin\Debug\CProject.exe.config
+C:\Users\ah_su\Desktop\CProject\CProject\obj\Debug\CProject.exe
+C:\Users\ah_su\Desktop\CProject\CProject\obj\Debug\CProject.pdb
+C:\Users\ah_su\Desktop\CProject\CProject\bin\Debug\CProject.exe
+C:\Users\ah_su\Desktop\CProject\CProject\bin\Debug\CProject.pdb
+C:\Users\ah_su\Desktop\CProject\CProject\obj\Debug\CProject.csprojResolveAssemblyReference.cache
+C:\Users\ah_su\Desktop\CProject\CProject\obj\Debug\CProject.Form1.resources
+C:\Users\ah_su\Desktop\CProject\CProject\obj\Debug\CProject.Properties.Resources.resources
+C:\Users\ah_su\Desktop\CProject\CProject\obj\Debug\CProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\CProject\CProject\bin\Debug\CProject.exe.config
+C:\Users\Administrator\Downloads\CProject\CProject\bin\Debug\CProject.exe
+C:\Users\Administrator\Downloads\CProject\CProject\bin\Debug\CProject.pdb
+C:\Users\Administrator\Downloads\CProject\CProject\obj\Debug\CProject.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\CProject\CProject\obj\Debug\CProject.Form1.resources
+C:\Users\Administrator\Downloads\CProject\CProject\obj\Debug\CProject.Properties.Resources.resources
+C:\Users\Administrator\Downloads\CProject\CProject\obj\Debug\CProject.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\CProject\CProject\obj\Debug\CProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\CProject\CProject\obj\Debug\CProject.exe
+C:\Users\Administrator\Downloads\CProject\CProject\obj\Debug\CProject.pdb
+C:\Users\ah_su\Desktop\Chelsea\CProject\bin\Debug\CProject.exe.config
+C:\Users\ah_su\Desktop\Chelsea\CProject\obj\Debug\CProject.exe
+C:\Users\ah_su\Desktop\Chelsea\CProject\obj\Debug\CProject.pdb
+C:\Users\ah_su\Desktop\Chelsea\CProject\bin\Debug\CProject.exe
+C:\Users\ah_su\Desktop\Chelsea\CProject\bin\Debug\CProject.pdb
+C:\Users\ah_su\Desktop\Chelsea\CProject\obj\Debug\CProject.csprojResolveAssemblyReference.cache
+C:\Users\ah_su\Desktop\Chelsea\CProject\obj\Debug\CProject.Form1.resources
+C:\Users\ah_su\Desktop\Chelsea\CProject\obj\Debug\CProject.Properties.Resources.resources
+C:\Users\ah_su\Desktop\Chelsea\CProject\obj\Debug\CProject.csproj.GenerateResource.Cache
+C:\Users\ah_su\Desktop\CProjectt\CProject\bin\Debug\CProject.exe.config
+C:\Users\ah_su\Desktop\CProjectt\CProject\obj\Debug\CProject.exe
+C:\Users\ah_su\Desktop\CProjectt\CProject\obj\Debug\CProject.pdb
+C:\Users\ah_su\Desktop\CProjectt\CProject\bin\Debug\CProject.exe
+C:\Users\ah_su\Desktop\CProjectt\CProject\bin\Debug\CProject.pdb
+C:\Users\ah_su\Desktop\CProjectt\CProject\obj\Debug\CProject.csprojResolveAssemblyReference.cache
+C:\Users\ah_su\Desktop\CProjectt\CProject\obj\Debug\CProject.Form1.resources
+C:\Users\ah_su\Desktop\CProjectt\CProject\obj\Debug\CProject.Properties.Resources.resources
+C:\Users\ah_su\Desktop\CProjectt\CProject\obj\Debug\CProject.csproj.GenerateResource.Cache
